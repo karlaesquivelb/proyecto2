@@ -8,7 +8,7 @@ El proyecto lleva por nombre "Impulso Nómada".
 
 Sprint #1
 
-Año: 2022
+Año: 2022 <br>
 Mes: Agosto 
 Periodo: 15 al 31
 

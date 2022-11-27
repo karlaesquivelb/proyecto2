@@ -1,4 +1,4 @@
-El siguiente repositorio es para el desarrollo de una página web de una agencia de viajes en formato HTML/CSS apoyados en la metodología <b>SCRUM<b>.
+El siguiente repositorio es para el desarrollo de una página web de una agencia de viajes en formato HTML/CSS apoyados en la metodología <b>SCRUM</b>.
 
 A través de este formato estaré llevando un diario de las actualizaciones de este proyecto.
 

@@ -98,6 +98,25 @@ En este sexto sprint se abarca:
 
 1. Se finalizan las pruebas de la página de preguntas frecuentes. 
 
+------------------------------------------------------------------------------------
+
+✒ Sprint #7
+
+Año: 2022 <br>
+Mes: Noviembre <br>
+Periodo: 16 al 30
+
+En este séptimo sprint se abarca:
+
+1. Se suspende el anexo de chat perosnalizado para asistencia en línea
+2. Se anexa página de atractivos turísticos recomendados por la agencia donde se tiene más experiencia del servicio para ofrecer a sus usuarios.
+3. Se anexa página de testimonios para que las opiniones de usuarios que han solicitado el servicio nos ayuden a posicionar a la página.
+
+Se han anexado los siguientes archivos en el repositorio:
++ atractivos.html
++ testimonios.html
+
+------------------------------------------------------------------------------------
 
 
 

@@ -1,4 +1,6 @@
-El siguiente repositorio es para el desarrollo de una página web de una agencia de viajes en formato HTML/CSS apoyados en la metodología <b>SCRUM</b>.
+🌱 🖥
+
+El siguiente repositorio es para el desarrollo de una página web de una agencia de viajes 🛫 en formato HTML/CSS apoyados en la metodología <b>SCRUM</b>.
 
 A través de este formato estaré llevando un diario de las actualizaciones de este proyecto.
 
@@ -6,7 +8,7 @@ El proyecto lleva por nombre "Impulso Nómada".
 
 ------------------------------------------------------------------------------------
 
-Sprint #1
+✒ Sprint #1
 
 Año: 2022 <br>
 Mes: Agosto <br>
@@ -25,7 +27,7 @@ Se han anexado los siguientes archivos en el repositorio:
 ------------------------------------------------------------------------------------
 
 
-Sprint #2
+✒ Sprint #2
 
 Año: 2022 <br>
 Mes: Septiembre <br>

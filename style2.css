@@ -1,0 +1,157 @@
+body {
+background-image: url(img/bg02.jpg); 
+background-repeat: no-repeat;
+background-attachment: fixed;  
+background-size: cover;
+font-family: montserrat;
+align: center;
+text-align: center;
+}
+
+header {
+background-image: linear-gradient(#0a76cf, #3498eb); 
+padding-top: 50px;
+text-align: right;
+width: 88%;
+height: 90px;
+display: block;
+overflow: hidden;
+padding-top: 50px;
+margin-left: -5px; 
+}
+
+h1 {
+font-family: kalam;
+color: white;
+font-size: 25px;
+}
+
+h2 {
+align: center;
+color: #DF9C2F;
+}
+
+h4 {
+font-family: montserrat;
+background-color: white; 
+opacity: 0.5; 
+padding: 10px;
+}
+
+h5 {
+font-family: montserrat;
+color: white;
+float: right;
+font-size: 0px;
+visibility: hidden; 
+}
+
+h7 {
+background-color: white; 
+opacity: 0.7; 
+margin: -11px; 
+padding: 10px; 
+width: 100%; 
+display: block; 
+text-align: center;
+font-family: Montserrat;
+}
+
+a {
+color: #2C59B3; 
+font-family: Montserrat; 
+font-size: 12px; 
+}
+
+nav {
+color: #2C59B3; 
+top-padding: 15px; 
+font-family: Montserrat; 
+background-color: #ed9d13;
+overflow: hidden;
+position: fixed;
+top: 0;
+width: 99%;
+margin-left: -5px; 
+font-size: 10px; 
+}
+
+nav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 5px 5px;
+  text-decoration: none;
+font-size: 10px; 
+}
+
+nav a:hover {
+  background-color: #ffe7c4;
+  color: #ed9d13;
+font-size: 10px; 
+}
+
+span {
+font-family: Montserrat; 
+font-size: 14px;
+}
+
+.content {
+width: 95%;
+text-align: justify;
+font-size: 18px; 
+}
+
+.youtube {
+display: block;
+width: 50%;
+}
+
+iframe{
+margin-left: -15px;
+width: 200px;
+height: 150px;
+}
+
+.viaje{
+float: left;
+height: 100px;
+width: 155px;
+}
+
+#perfiltestimonio
+{
+border-radius: 50%;
+height: 100px;
+width: 100px;
+}
+
+#nombretestimonio{
+font-weight: bold;
+font-style: italic;
+}
+
+input[type=text] {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  border-bottom: 2px solid #2C59B3;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+  background-color: #fa8c05;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.imgcontenido{
+width: 80%;
+height: 80%;
+}

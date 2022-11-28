@@ -24,3 +24,18 @@ Se han anexado los siguientes archivos en el repositorio:
 
 ------------------------------------------------------------------------------------
 
+
+Sprint #2
+
+Año: 2022 <br>
+Mes: Septiembre <br>
+Periodo: 1 al 15
+
+En este segundo sprint se abarcan dos puntos que son:
+
+1. Misión y visión de la empresa (seccion dentro de la página, mision.html).
+2. Que haya enlaces a nuestras redes sociales (dentro de la pagina principal).
+
+Se han anexado los siguientes archivos en el repositorio:
++ mision.html
+

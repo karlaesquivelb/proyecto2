@@ -26,7 +26,6 @@ Se han anexado los siguientes archivos en el repositorio:
 
 ------------------------------------------------------------------------------------
 
-
 ✒ Sprint #2
 
 Año: 2022 <br>
@@ -41,9 +40,7 @@ En este segundo sprint se abarcan dos puntos que son:
 Se han anexado los siguientes archivos en el repositorio:
 + mision.html
 
-
 ------------------------------------------------------------------------------------
-
 
 ✒ Sprint #3
 
@@ -53,9 +50,7 @@ Periodo: 15 al 30
 
 En este tercer sprint se continuan con ajustes del sprint anterior.
 
-
 ------------------------------------------------------------------------------------
-
 
 ✒ Sprint #4
 
@@ -76,9 +71,7 @@ Se han anexado los siguientes archivos en el repositorio:
 + style2.css
 + style3.css
 
-
 ------------------------------------------------------------------------------------
-
 
 ✒ Sprint #5
 
@@ -92,6 +85,20 @@ En este quinto sprint se abarca:
 
 Se han anexado los siguientes archivos en el repositorio:
 + faq.html
+
+------------------------------------------------------------------------------------
+
+✒ Sprint #6
+
+Año: 2022 <br>
+Mes: Octubre <br>
+Periodo: 16 al 21
+
+En este sexto sprint se abarca:
+
+1. Se finalizan las pruebas de la página de preguntas frecuentes. 
+
+
 
 
 

@@ -67,9 +67,14 @@ En este cuarto sprint se abarca:
 
 1. Página de contacto de la empresa (contacto.html) donde se publica el formulario de contacto para los usuarios de la página.
 2. Se está considerando el poner ahi mismo los datos de ubicacion de la empresa o designar otra sección para ese fin.
+3. Se editaron los archivos de index.html y mision.html con respecto al menú de navegación.
+4. Se anexan las hojas de estilo.
 
 Se han anexado los siguientes archivos en el repositorio:
 + contacto.html
++ style.css
++ style2.css
++ style3.css
 
 
 

@@ -41,3 +41,36 @@ En este segundo sprint se abarcan dos puntos que son:
 Se han anexado los siguientes archivos en el repositorio:
 + mision.html
 
+
+------------------------------------------------------------------------------------
+
+
+✒ Sprint #3
+
+Año: 2022 <br>
+Mes: Septiembre <br>
+Periodo: 15 al 30
+
+En este tercer sprint se continuan con ajustes del sprint anterior.
+
+
+------------------------------------------------------------------------------------
+
+
+✒ Sprint #4
+
+Año: 2022 <br>
+Mes: Octubre <br>
+Periodo: 1 al 15
+
+En este cuarto sprint se abarca:
+
+1. Página de contacto de la empresa (contacto.html) donde se publica el formulario de contacto para los usuarios de la página.
+2. Se está considerando el poner ahi mismo los datos de ubicacion de la empresa o designar otra sección para ese fin.
+
+Se han anexado los siguientes archivos en el repositorio:
++ contacto.html
+
+
+
+
